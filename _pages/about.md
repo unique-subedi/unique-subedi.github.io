@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/), advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I spent four wonderful years studying mathematics at [University of Mississippi ~ Olemiss](https://olemiss.edu/). At Olemiss, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
+I am a second year Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/), advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I did my B.S. in mathematics, with a minor in computer science, at [University of Mississippi ~ Olemiss](https://olemiss.edu/). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
 
 I am broadly interested in theory of machine learning. 
 
