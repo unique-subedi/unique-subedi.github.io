@@ -16,10 +16,10 @@ I am broadly interested in theory of machine learning.
 Publications and Preprints
 ======
 
-**A Characterization of Multioutput Learnability**  
+- [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
 [Vinod Raman](https://vinodkraman.github.io), Unique Subedi, [Ambuj Tewari](https://ambujtewari.github.io)  
 Preprint, 2023  
-[[paper](https://arxiv.org/abs/2301.02729)]
+
 
 **On Proper Learnability between Average- and Worst-case Robustness**  
 [Vinod Raman](https://vinodkraman.github.io), Unique Subedi, [Ambuj Tewari](https://ambujtewari.github.io)  
