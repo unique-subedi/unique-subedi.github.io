@@ -57,7 +57,7 @@ Talks
 Miscallaneous Writing
 ======
 - [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis), *Undergraduate Thesis*
-- [An Elementary Evaluation of \\(\zeta(2n)\\) Using Dirichlet's Kernel](https://drive.google.com/file/d/1jAp-1072Axs7Enn-s5yNsk6qEUawwc2y/view?usp=share_link)    
+- [An Elementary Evaluation of $\zeta(2n)$ Using Dirichlet's Kernel](https://drive.google.com/file/d/1jAp-1072Axs7Enn-s5yNsk6qEUawwc2y/view?usp=share_link)    
   Micah B. Milinovich and Unique Subedi
 
 
