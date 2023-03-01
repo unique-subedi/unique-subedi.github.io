@@ -44,6 +44,7 @@ Daksh Aggarwal, Unique Subedi, William Verreault, Asif Zaman, Chengui Zheng
 Daksh Aggarwal, Unique Subedi, William Verreault, Asif Zaman, Chengui Zheng     
 *Mathematical Proceedings of the Cambridge Philosophical Society*, 2022   
 
+- [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis), *Undergraduate Thesis*
 
 
 
@@ -56,8 +57,10 @@ Talks
 
 Miscallaneous Writing
 ======
-- [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis), *Undergraduate Thesis*
-- [An Elementary Evaluation of $\zeta(2n)$ Using Dirichlet's Kernel](https://drive.google.com/file/d/1KlhibMU5Xob_w-ElM-A_TrFvwMDgEy74/view?usp=share_link)    
+
+- [An Elementary Evaluation of $\zeta(2n)$ Using Dirichlet's Kernel](https://unique-subedi.github.io/Misc_Writings/Dirichlet_s_Kernel_and_Zeta_2n_.pdf)    
+  Micah B. Milinovich and Unique Subedi
+- [On $L_1$-norm of Dirichlet's Kernel](https://unique-subedi.github.io/Misc_Writings/L1_Norm_of_Dirichlet_s_Kernel.pdf)  
   Micah B. Milinovich and Unique Subedi
 
 
