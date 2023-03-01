@@ -30,7 +30,7 @@ Vinod Raman, Unique Subedi, Ambuj Tewari
 *NeurIPS (ML Safety Workshop)*, 2022    
 
 
-- [A Weighted Version of Erdos-Kac Theorem](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21003681)  
+- [A Weighted Version of Erdős-Kac Theorem](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21003681)  
 Rizwanur Khan, Micah Milinovich, Unique Subedi    
 *Journal of Number Theory*, 2022    
   
@@ -45,10 +45,20 @@ Daksh Aggarwal, Unique Subedi, William Verreault, Asif Zaman, Chengui Zheng
 *Mathematical Proceedings of the Cambridge Philosophical Society*, 2022   
 
 
+
+
+
 Talks
 ======
 - A Weighted Version of Erdos-Kac Theorem (Number Theory Seminar, Ole Miss) 
 - Computational Investigations of Random Multiplicative Functions (FUSRP 2020)
+
+
+Miscallaneous Writing
+======
+-[A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis)
+*Undergraduate Thesis*, 2021
+
 
 
 Teaching
