@@ -19,7 +19,7 @@ I am broadly interested in theory of machine learning. In past, I have also stud
 
 Publications and Preprints
 ======
-  * denotes equal contributions
+  \* denotes equal contributions
 
 - [A Characterization of Online Multiclass Learnability](https://arxiv.org/abs/2303.17716)   
 Vinod Raman* , Unique Subedi* , Ambuj Tewari  
