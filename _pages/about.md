@@ -24,7 +24,7 @@ Publications and Preprints
 Vinod Raman, Unique Subedi, Ambuj Tewari  
 *Preprint*, 2023  
 
-- [https://arxiv.org/abs/2304.03337](https://arxiv.org/abs/2304.03337)   
+- [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
 Vinod Raman, Unique Subedi, Ambuj Tewari  
 *Preprint*, 2023  
 
