@@ -19,17 +19,18 @@ I am broadly interested in theory of machine learning. In past, I have also stud
 
 Publications and Preprints
 ======
+* denotes equal contributions
 
 - [A Characterization of Online Multiclass Learnability](https://arxiv.org/abs/2303.17716)   
-Vinod Raman, Unique Subedi, Ambuj Tewari  
+Vinod Raman* , Unique Subedi* , Ambuj Tewari  
 *Preprint*, 2023  
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-Vinod Raman, Unique Subedi, Ambuj Tewari  
+Vinod Raman* , Unique Subedi* , Ambuj Tewari  
 *Preprint*, 2023  
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
-Vinod Raman, Unique Subedi, Ambuj Tewari  
+Vinod Raman* , Unique Subedi* , Ambuj Tewari  
 *Preprint*, 2023    
 
 
