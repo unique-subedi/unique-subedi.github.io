@@ -14,12 +14,15 @@ I am a second year Ph.D. student in the statistics department at the University 
 Research Interest
 ======
 
-I am broadly interested in theory of machine learning. In past, I have also studied probabilistic models of the problems arising in number theory. 
-
+I am broadly interested in theory of machine learning. 
 
 Publications and Preprints
 ======
   \* denotes equal contributions
+  
+  - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
+Vinod Raman* , Unique Subedi* , Ambuj Tewari  
+*Preprint*, 2023  
 
 - [A Characterization of Online Multiclass Learnability](https://arxiv.org/abs/2303.17716)   
 Vinod Raman* , Unique Subedi* , Ambuj Tewari  
