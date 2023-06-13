@@ -25,7 +25,7 @@ Publications and Preprints
 *Preprint*, 2023  
 
 - [A Characterization of Online Multiclass Learnability](https://arxiv.org/abs/2303.17716)   
-[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)   
+[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)    
 *Preprint*, 2023  
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
@@ -56,7 +56,8 @@ Publications and Preprints
 [Daksh Aggarwal](https://dakshces.github.io/), Unique Subedi, William Verreault, [Asif Zaman](https://www.math.toronto.edu/zaman/), Chengui Zheng      
 *Mathematical Proceedings of the Cambridge Philosophical Society*, 2022   
 
-- [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis), *Undergraduate Thesis*
+- [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis) 
+*Undergraduate Thesis*
 
 
 
