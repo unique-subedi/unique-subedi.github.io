@@ -21,39 +21,39 @@ Publications and Preprints
   \* denotes equal contributions
   
   - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
-[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)
+[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/) 
 *Preprint*, 2023  
 
 - [A Characterization of Online Multiclass Learnability](https://arxiv.org/abs/2303.17716)   
-[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)  
+[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)   
 *Preprint*, 2023  
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)    
+[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)     
 *Preprint*, 2023  
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
-[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/) 
+[Vinod Raman](https://vinodkraman.github.io/)* , Unique Subedi* , [Ambuj Tewari](https://www.ambujtewari.com/)  
 *Preprint*, 2023    
 
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
-[Vinod Raman](https://vinodkraman.github.io/), Unique Subedi, [Ambuj Tewari](https://www.ambujtewari.com/) 
+[Vinod Raman](https://vinodkraman.github.io/), Unique Subedi, [Ambuj Tewari](https://www.ambujtewari.com/)  
 *NeurIPS (ML Safety Workshop)*, 2022    
 
 
 - [A Weighted Version of Erdős-Kac Theorem](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21003681)  
-[Rizwanur Khan](http://home.olemiss.edu/~rrkhan/), [Micah Milinovich](http://home.olemiss.edu/~mbmilino/), Unique Subedi    
+[Rizwanur Khan](http://home.olemiss.edu/~rrkhan/), [Micah Milinovich](http://home.olemiss.edu/~mbmilino/), Unique Subedi     
 *Journal of Number Theory*, 2022    
   
 
 - [A Conjectural Asymptotic Formula for Multiplicative Chaos in Number Theory](https://link.springer.com/article/10.1007/s40993-022-00332-x)    
-[Daksh Aggarwal](https://dakshces.github.io/), Unique Subedi, William Verreault, [Asif Zaman](https://www.math.toronto.edu/zaman/), Chengui Zheng     
+[Daksh Aggarwal](https://dakshces.github.io/), Unique Subedi, William Verreault, [Asif Zaman](https://www.math.toronto.edu/zaman/), Chengui Zheng      
 *Research in Number Theory*, 2022   
 
 
 - [Sums of Random Multiplicative Functions over Function Fields with Few Irreducible Factors](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/sums-of-random-multiplicative-functions-over-function-fields-with-few-irreducible-factors/636667B07830029AB35196FF595CA055)   
-[Daksh Aggarwal](https://dakshces.github.io/), Unique Subedi, William Verreault, [Asif Zaman](https://www.math.toronto.edu/zaman/), Chengui Zheng     
+[Daksh Aggarwal](https://dakshces.github.io/), Unique Subedi, William Verreault, [Asif Zaman](https://www.math.toronto.edu/zaman/), Chengui Zheng      
 *Mathematical Proceedings of the Cambridge Philosophical Society*, 2022   
 
 - [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis), *Undergraduate Thesis*
