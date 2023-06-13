@@ -14,7 +14,7 @@ I am a second year Ph.D. student in the statistics department at the University 
 Research Interest
 ======
 
-I am broadly interested in theory of machine learning. 
+I am broadly interested in theory of machine learning. Some of my topics of interest includes: learning theory, online learning, adversarial robustness, vector-valued prediction, partial-feedbacks models. In the past, I have also dabbled in probabilistic models in number theory. 
 
 Publications and Preprints
 ======
