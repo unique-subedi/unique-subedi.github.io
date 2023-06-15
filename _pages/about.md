@@ -24,7 +24,7 @@ Publications and Preprints
  Vinod Raman, Unique Subedi , Ambuj Tewari    
  *Preprint*, 2023  
 
-- Multiclass Online Learning and Uniform Convergence
+- Multiclass Online Learning and Uniform Convergence     
   Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari     
 *Conference on Learning Theory (COLT)*, 2023  
 
