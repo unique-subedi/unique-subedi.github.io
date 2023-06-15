@@ -18,27 +18,27 @@ I am broadly interested in theory of machine learning. Some of my topics of inte
 
 Publications and Preprints
 ======
-  \* denotes equal contributions
+ Author list is alphabetical, unless otherwise stated.
   
   - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
- Vinod Raman\*, Unique Subedi\* , Ambuj Tewari    
+ Vinod Raman, Unique Subedi , Ambuj Tewari    
  *Preprint*, 2023  
 
-- [A Characterization of Online Multiclass Learnability](https://arxiv.org/abs/2303.17716)   
-  Vinod Raman\*, Unique Subedi\* , Ambuj Tewari     
-*Preprint*, 2023  
+- Multiclass Online Learning and Uniform Convergence
+  Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari     
+*Conference on Learning Theory (COLT)*, 2023  
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-  Vinod Raman\*, Unique Subedi\* , Ambuj Tewari       
+  Vinod Raman, Unique Subedi, Ambuj Tewari       
 *Preprint*, 2023  
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
-  Vinod Raman\*, Unique Subedi\* , Ambuj Tewari    
+  Vinod Raman, Unique Subedi, Ambuj Tewari    
 *Preprint*, 2023    
 
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
-  Vinod Raman\*, Unique Subedi\* , Ambuj Tewari   
+  Vinod Raman, Unique Subedi, Ambuj Tewari   
 *NeurIPS (ML Safety Workshop)*, 2022    
 
 
