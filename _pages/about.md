@@ -8,39 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
+I am a second-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Ole miss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
 
 
 Research Interest
 ======
 
-I am broadly interested in theory of machine learning. Some of my topics of interest includes: learning theory, online learning, adversarial robustness, vector-valued prediction, and partial-feedbacks models. In the past, I have also dabbled in probabilistic models in number theory. 
+I am broadly interested in the theory of machine learning. Some of my topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, and partial-feedback models. In the past, I have also dabbled in probabilistic models in number theory. 
 
-Publications and Preprints
+Preprints
 ======
- Author list is alphabetical, unless otherwise stated.
-  
-  - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
- Vinod Raman, Unique Subedi , Ambuj Tewari    
- *Preprint*, 2023  
+The author list is alphabetical unless otherwise stated.
 
-- Multiclass Online Learning and Uniform Convergence     
-  Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari     
-*Conference on Learning Theory (COLT)*, 2023  
+- [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
+  Ananth Raman, Vinod Raman, Unique Subedi, Ambuj Tewari   
+*Preprint*, 2023
+
+
+- [A Combinatorial Characterization of Online Learning Games with Bounded Losses](https://arxiv.org/abs/2307.03816)   
+  Vinod Raman, Unique Subedi, Ambuj Tewari   
+*Preprint*, 2023
+
+
+ - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
+   Vinod Raman, Unique Subedi , Ambuj Tewari         
+ *Preprint*, 2023  
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
   Vinod Raman, Unique Subedi, Ambuj Tewari       
-*Preprint*, 2023  
+*Submitted*, 2023  
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
   Vinod Raman, Unique Subedi, Ambuj Tewari    
-*Preprint*, 2023    
+*Submitted*, 2023    
 
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
   Vinod Raman, Unique Subedi, Ambuj Tewari   
-*NeurIPS (ML Safety Workshop)*, 2022    
+*Submitted*, 2022    
 
+Publications 
+======
+The author list is alphabetical unless otherwise stated.
+
+- [Multiclass Online Learning and Uniform Convergence](https://proceedings.mlr.press/v195/hanneke23b.html)    
+  Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari     
+*Conference on Learning Theory (COLT)*, 2023  
 
 - [A Weighted Version of Erdős-Kac Theorem](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21003681)  
 Rizwanur Khan, Micah Milinovich, Unique Subedi     
@@ -68,7 +81,7 @@ Talks
 - Computational Investigations of Random Multiplicative Functions (FUSRP 2020)
 
 
-Miscallaneous Writing
+Miscellaneous Writing
 ======
 
 - [An Elementary Evaluation of $\zeta(2n)$ Using Dirichlet's Kernel](https://unique-subedi.github.io/Misc_Writings/Dirichlet_s_Kernel_and_Zeta_2n_.pdf)    
