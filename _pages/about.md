@@ -46,12 +46,12 @@ Publications
 The author list is alphabetical unless otherwise stated.
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-  Vinod Raman, Unique Subedi, Ambuj Tewari       
-*Conference on Neural Information Processing Systems (Spotlight)*, 2023  
+  Vinod Raman, Unique Subedi, Ambuj Tewari  
+  <font color='red'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
   Vinod Raman, Unique Subedi, Ambuj Tewari   
-  *Conference on Neural Information Processing Systems*, 2022    
+  *Conference on Neural Information Processing Systems (NeurIPS)*, 2023   
 
 - [Multiclass Online Learning and Uniform Convergence](https://proceedings.mlr.press/v195/hanneke23b.html)    
   Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari     
