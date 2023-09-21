@@ -34,26 +34,28 @@ The author list is alphabetical unless otherwise stated.
    Vinod Raman, Unique Subedi , Ambuj Tewari         
  *Preprint*, 2023  
 
-- [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-  Vinod Raman, Unique Subedi, Ambuj Tewari       
-*Submitted*, 2023  
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
   Vinod Raman, Unique Subedi, Ambuj Tewari    
 *Submitted*, 2023    
 
 
-- [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
-  Vinod Raman, Unique Subedi, Ambuj Tewari   
-*Submitted*, 2022    
 
 Publications 
 ======
 The author list is alphabetical unless otherwise stated.
 
+- [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
+  Vinod Raman, Unique Subedi, Ambuj Tewari       
+*Conference on Neural Information Processing Systems (Spotlight)*, 2023  
+
+- [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
+  Vinod Raman, Unique Subedi, Ambuj Tewari   
+  *Conference on Neural Information Processing Systems*, 2022    
+
 - [Multiclass Online Learning and Uniform Convergence](https://proceedings.mlr.press/v195/hanneke23b.html)    
   Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari     
-*Conference on Learning Theory (COLT)*, 2023  
+  *Conference on Learning Theory (COLT)*, 2023  
 
 - [A Weighted Version of Erdős-Kac Theorem](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21003681)  
 Rizwanur Khan, Micah Milinovich, Unique Subedi     
