@@ -20,8 +20,8 @@ Preprints
 ======
 The author list is alphabetical unless otherwise stated.
 
-- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)
-Vinod Raman, Unique Subedi, Ambuj Tewari
+- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)    
+Vinod Raman, Unique Subedi, Ambuj Tewari  
 *Preprint*, 2023
 
 - [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
@@ -50,8 +50,8 @@ Publications
 The author list is alphabetical unless otherwise stated.
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-  Vinod Raman, Unique Subedi, Ambuj Tewari  
-  <font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
+  Vinod Raman, Unique Subedi, Ambuj Tewari    
+  *<font color='blue'> Spotlight at </font> Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
   Vinod Raman, Unique Subedi, Ambuj Tewari   
