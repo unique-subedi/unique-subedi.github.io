@@ -20,6 +20,10 @@ Preprints
 ======
 The author list is alphabetical unless otherwise stated.
 
+- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)
+Vinod Raman, Unique Subedi, Ambuj Tewari
+*Preprint*, 2023
+
 - [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
   Ananth Raman, Vinod Raman, Unique Subedi, Ambuj Tewari   
 *Preprint*, 2023
