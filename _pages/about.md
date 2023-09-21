@@ -47,7 +47,7 @@ The author list is alphabetical unless otherwise stated.
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
   Vinod Raman, Unique Subedi, Ambuj Tewari  
-  <font color='red'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
+  <font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
   Vinod Raman, Unique Subedi, Ambuj Tewari   
