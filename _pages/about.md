@@ -21,7 +21,7 @@ Preprints
 The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
 
 - [Revisiting the Learnability of Apple Tasting](https://arxiv.org/abs/2310.19064)    
-Vinod Raman*, Unique Subedi*, Ananth Raman, Ambuj Tewari  
+Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari  
 *Preprint*, 2023
 
 - [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
