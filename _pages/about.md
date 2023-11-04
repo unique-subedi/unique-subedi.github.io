@@ -26,11 +26,11 @@ Vinod Raman*, Unique Subedi*, Ananth Raman, Ambuj Tewari
 
 - [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
 Vinod Raman, Unique Subedi, Ambuj Tewari  
-*Preprint*, 2023
+*Submitted*, 2023
 
 - [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
   Ananth Raman, Vinod Raman, Unique Subedi, Ambuj Tewari   
-*Preprint*, 2023
+*Submitted*, 2023
 
 
 - [A Combinatorial Characterization of Online Learning Games with Bounded Losses](https://arxiv.org/abs/2307.03816)   
