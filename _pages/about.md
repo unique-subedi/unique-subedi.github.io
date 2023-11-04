@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Ole miss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
+I am a third-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
 
 
 Research Interest
 ======
 
-I am broadly interested in the theory of machine learning. Some of my topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, and partial-feedback models. In the past, I have also dabbled in probabilistic models in number theory. 
+I am broadly interested in the theory of machine learning. Some of my topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, operator learning, and partial-feedback models. In the past, I have also dabbled in probabilistic models in number theory. 
 
 Preprints
 ======
-The author list is alphabetical unless otherwise stated.
+The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
+
+-[Revisiting the Learnability of Apple Tasting](https://arxiv.org/abs/2310.19064)
+Vinod Raman*, Unique Subedi*, Ananth Raman, Ambuj Tewari
+*Preprint*, 2023
 
 - [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)    
 Vinod Raman, Unique Subedi, Ambuj Tewari  
