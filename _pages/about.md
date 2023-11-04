@@ -16,21 +16,13 @@ Research Interest
 
 I am broadly interested in the theory of machine learning. Some of my topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, operator learning, and partial-feedback models. In the past, I have also dabbled in probabilistic models in number theory. 
 
-Preprints
+Working Preprints
 ======
 The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
 
 - [Revisiting the Learnability of Apple Tasting](https://arxiv.org/abs/2310.19064)    
 Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari  
 *Preprint*, 2023
-
-- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
-Vinod Raman, Unique Subedi, Ambuj Tewari  
-*Submitted*, 2023
-
-- [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
-  Ananth Raman, Vinod Raman, Unique Subedi, Ambuj Tewari   
-*Submitted*, 2023
 
 
 - [A Combinatorial Characterization of Online Learning Games with Bounded Losses](https://arxiv.org/abs/2307.03816)   
@@ -43,10 +35,23 @@ Vinod Raman, Unique Subedi, Ambuj Tewari
  *Preprint*, 2023  
 
 
+
+
+
+Under Review
+======
+The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
+- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
+Vinod Raman, Unique Subedi, Ambuj Tewari  
+*Submitted*, 2023
+
+- [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
+  Ananth Raman, Vinod Raman, Unique Subedi, Ambuj Tewari   
+*Submitted*, 2023
+
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
   Vinod Raman, Unique Subedi, Ambuj Tewari    
 *Submitted*, 2023    
-
 
 
 Publications 
