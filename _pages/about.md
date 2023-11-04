@@ -51,7 +51,7 @@ Vinod Raman, Unique Subedi, Ambuj Tewari
 
 Publications 
 ======
-The author list is alphabetical unless otherwise stated.
+The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
   Vinod Raman, Unique Subedi, Ambuj Tewari    
