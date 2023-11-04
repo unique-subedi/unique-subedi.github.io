@@ -103,7 +103,8 @@ Miscellaneous Writing
 Teaching
 ======
 I have been a Graduate Student Instructor for the following courses at Michigan:
-- [Statistics and AI](https://ambujtewari.github.io/stats315-winter2023/), Winter 2023
+- Probability and Distribution Theory, Fall 2023
+- [Statistics and AI, aka Deep Learning](https://ambujtewari.github.io/stats315-winter2023/), Winter 2023
 - [Bayesian Data Analysis](https://yixinwang.github.io/courses/bayesian/fall22/bayesian22f.html), Fall 2022
 - Applied Regression Analysis, Winter 2022
 - Introduction to Statistics and Data Analysis, Fall 2021
