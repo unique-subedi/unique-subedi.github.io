@@ -18,7 +18,7 @@ I am broadly interested in the theory of machine learning. Some of my topics of 
 
 Working Preprints
 ======
-The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
+The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
 
 - [Revisiting the Learnability of Apple Tasting](https://arxiv.org/abs/2310.19064)    
 Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari  
@@ -26,13 +26,9 @@ Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari
 
 
 - [A Combinatorial Characterization of Online Learning Games with Bounded Losses](https://arxiv.org/abs/2307.03816)   
-  Vinod Raman, Unique Subedi, Ambuj Tewari   
+  Vinod Raman\*, Unique Subedi\*, Ambuj Tewari   
 *Preprint*, 2023
 
-
- - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
-   Vinod Raman, Unique Subedi , Ambuj Tewari         
- *Preprint*, 2023  
 
 
 
@@ -40,30 +36,37 @@ Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari
 
 Under Review
 ======
-The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
-- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
-Vinod Raman, Unique Subedi, Ambuj Tewari  
-*Submitted*, 2023
+The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
 
-- [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
-  Ananth Raman, Vinod Raman, Unique Subedi, Ambuj Tewari   
-*Submitted*, 2023
+
+ - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
+   Vinod Raman\*, Unique Subedi\* , Ambuj Tewari         
+ *Submitted*, 2023  
+
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
-  Vinod Raman, Unique Subedi, Ambuj Tewari    
+  Vinod Raman\*, Unique Subedi\*, Ambuj Tewari    
 *Submitted*, 2023    
 
 
 Publications 
 ======
-The author list is alphabetical unless otherwise stated. (*) indicates joint first authorship.
+The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
+
+- [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
+Vinod Raman\*, Unique Subedi\*, Ambuj Tewari  
+*Conference on Algorithmic Learning Theory*, 2024
+
+- [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
+  Ananth Raman, Vinod Raman\*, Unique Subedi\*, Idan Mehalel\*, Ambuj Tewari   
+*Conference on Algorithmic Learning Theory*, 2023
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-  Vinod Raman, Unique Subedi, Ambuj Tewari    
+  Vinod Raman\*, Unique Subedi\*, Ambuj Tewari    
   *<font color='blue'> Spotlight at </font> Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
-  Vinod Raman, Unique Subedi, Ambuj Tewari   
+  Vinod Raman\*, Unique Subedi\*, Ambuj Tewari   
   *Conference on Neural Information Processing Systems (NeurIPS)*, 2023   
 
 - [Multiclass Online Learning and Uniform Convergence](https://proceedings.mlr.press/v195/hanneke23b.html)    
