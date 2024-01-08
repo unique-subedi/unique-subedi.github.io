@@ -55,11 +55,11 @@ The author list is alphabetical unless otherwise stated. (*) indicates equal con
 
 - [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
 Vinod Raman\*, Unique Subedi\*, Ambuj Tewari  
-*Conference on Algorithmic Learning Theory*, 2024
+*Conference on Algorithmic Learning Theory (ALT)*, 2024
 
 - [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
   Ananth Raman, Vinod Raman\*, Unique Subedi\*, Idan Mehalel\*, Ambuj Tewari   
-*Conference on Algorithmic Learning Theory*, 2024
+*Conference on Algorithmic Learning Theory (ALT)*, 2024
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
   Vinod Raman\*, Unique Subedi\*, Ambuj Tewari    
