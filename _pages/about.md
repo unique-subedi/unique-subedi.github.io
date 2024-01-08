@@ -59,7 +59,7 @@ Vinod Raman\*, Unique Subedi\*, Ambuj Tewari
 
 - [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
   Ananth Raman, Vinod Raman\*, Unique Subedi\*, Idan Mehalel\*, Ambuj Tewari   
-*Conference on Algorithmic Learning Theory*, 2023
+*Conference on Algorithmic Learning Theory*, 2024
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
   Vinod Raman\*, Unique Subedi\*, Ambuj Tewari    
