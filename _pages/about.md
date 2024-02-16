@@ -14,20 +14,13 @@ I am a third-year Ph.D. student in the statistics department at the University o
 Research Interest
 ======
 
-I am broadly interested in the theory of machine learning. Some of my topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, operator learning, and partial-feedback models. In the past, I have also dabbled in probabilistic models in number theory. 
+I am broadly interested in the theory of machine learning. My topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, operator learning, and partial-feedback models, dynamical systems. In the past, I have also worked on probabilistic number theory. 
 
 Working Preprints
 ======
 The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
 
-- [Revisiting the Learnability of Apple Tasting](https://arxiv.org/abs/2310.19064)    
-Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari  
-*Preprint*, 2023
 
-
-- [A Combinatorial Characterization of Online Learning Games with Bounded Losses](https://arxiv.org/abs/2307.03816)   
-  Vinod Raman\*, Unique Subedi\*, Ambuj Tewari   
-*Preprint*, 2023
 
 
 
@@ -37,6 +30,18 @@ Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari
 Under Review
 ======
 The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
+
+- [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)    
+Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari  
+*Submitted*, 2024
+
+- [Apple Tasting: Combinatorial Dimensions and Minimax Rates](https://arxiv.org/abs/2310.19064)    
+Vinod Raman\*, Unique Subedi\*, Ananth Raman, Ambuj Tewari  
+*Submitted*, 2023
+
+- [A Combinatorial Characterization of Supervised Online Learnability](https://arxiv.org/abs/2307.03816)   
+  Vinod Raman\*, Unique Subedi\*, Ambuj Tewari   
+*Submitted*, 2023
 
 
  - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
