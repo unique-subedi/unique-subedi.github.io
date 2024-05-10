@@ -22,7 +22,6 @@ Working Preprints
 
 Under Review
 ======
-The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
 
 - [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)    
   with Vinod Raman and Ambuj Tewari  
