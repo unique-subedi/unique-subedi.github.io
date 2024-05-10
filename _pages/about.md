@@ -28,18 +28,10 @@ The author list is alphabetical unless otherwise stated. (*) indicates equal con
   with Vinod Raman and Ambuj Tewari  
 *Submitted*, 2024
 
-- [Apple Tasting: Combinatorial Dimensions and Minimax Rates](https://arxiv.org/abs/2310.19064)    
-  with Vinod Raman, Ananth Raman, Ambuj Tewari  
-*Submitted*, 2023
 
 - [A Combinatorial Characterization of Supervised Online Learnability](https://arxiv.org/abs/2307.03816)   
   with Vinod Raman, Ambuj Tewari   
 *Submitted*, 2023
-
-
- - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
-   with Vinod Raman, Ambuj Tewari         
- *Submitted*, 2023  
 
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
@@ -49,15 +41,22 @@ The author list is alphabetical unless otherwise stated. (*) indicates equal con
 
 Publications 
 ======
-The author list is alphabetical unless otherwise stated. (*) indicates equal contribution.
+
+ - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
+   with Vinod Raman, Ambuj Tewari         
+   *Conference on Learning Theory (COLT)*, 2024
+
+- [Apple Tasting: Combinatorial Dimensions and Minimax Rates](https://arxiv.org/abs/2310.19064)    
+  with Vinod Raman, Ananth Raman, Ambuj Tewari  
+  *Conference on Learning Theory (COLT)*, 2024
 
 - [Online Infinite-Dimensional Regression: Learning Linear Operators](https://arxiv.org/abs/2309.06548)       
  with Vinod Raman, Ambuj Tewari  
-*Conference on Algorithmic Learning Theory (ALT)*, 2024
+  *Conference on Algorithmic Learning Theory (ALT)*, 2024
 
 - [Multiclass Online Learnability under Bandit Feedback](https://arxiv.org/abs/2308.04620)   
   with Ananth Raman, Vinod Raman, Idan Mehalel, Ambuj Tewari   
-*Conference on Algorithmic Learning Theory (ALT)*, 2024
+  *Conference on Algorithmic Learning Theory (ALT)*, 2024
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
   with Vinod Raman, Ambuj Tewari    
