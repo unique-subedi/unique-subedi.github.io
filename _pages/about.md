@@ -16,22 +16,24 @@ Research Interest
 
 I am broadly interested in the theory of machine learning. My topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, operator learning, and partial-feedback models, dynamical systems. In the past, I have also worked on probabilistic number theory. 
 
-Working Preprints
+Preprints
 ======
+- [Error Bounds for Learning Fourier Linear Operators](https://arxiv.org/pdf/2408.09004)    
+  with Ambuj Tewari  
+  Preprint, 2024
 
-
-Under Review
-======
 
 - [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)    
   with Vinod Raman and Ambuj Tewari  
-*Submitted*, 2024
+  Preprint, 2024
 
 
 - [A Combinatorial Characterization of Supervised Online Learnability](https://arxiv.org/abs/2307.03816)   
   with Vinod Raman, Ambuj Tewari   
-*Submitted*, 2023
+  Preprint, 2023
 
+Under Review
+======
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
   with Vinod Raman, Ambuj Tewari    
