@@ -43,6 +43,14 @@ Under Review
 Publications 
 ======
 
+ - [Multiclass Transductive Online Learning]()   
+   with Steve Hanneke, Amirreza Shaeiri, Vinod Raman  
+   Accepted to *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
+
+ - [Smoothed Online Classification can be Harder than Batch Classification](https://arxiv.org/pdf/2405.15424)   
+   with Vinod Raman, Ambuj Tewari         
+   Accepted to *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
+
  - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
    with Vinod Raman, Ambuj Tewari         
    *Conference on Learning Theory (COLT)*, 2024
