@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
+I am a fourth-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
 
 
 Research Interest
@@ -45,7 +45,7 @@ Publications
 
  - [Multiclass Transductive Online Learning]()   
    with Steve Hanneke, Amirreza Shaeiri, Vinod Raman  
-   *<font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
+   <font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
 
  - [Smoothed Online Classification can be Harder than Batch Classification](https://arxiv.org/pdf/2405.15424)   
    with Vinod Raman, Ambuj Tewari         
