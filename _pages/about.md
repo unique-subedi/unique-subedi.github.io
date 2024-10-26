@@ -32,24 +32,24 @@ Preprints
   with Vinod Raman, Ambuj Tewari   
   Preprint, 2023
 
-Under Review
-======
-
-- [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
-  with Vinod Raman, Ambuj Tewari    
-*Submitted*, 2023    
 
 
 Publications 
 ======
 
+
+  - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
+    with Vinod Raman, Ambuj Tewari    
+    *Journal of Machine Learning Research (JMLR)*, 2024   
+
+
  - [Multiclass Transductive Online Learning]()   
    with Steve Hanneke, Amirreza Shaeiri, Vinod Raman  
-   Accepted to *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
+   *<font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
 
  - [Smoothed Online Classification can be Harder than Batch Classification](https://arxiv.org/pdf/2405.15424)   
    with Vinod Raman, Ambuj Tewari         
-   Accepted to *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
+   *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
 
  - [Online Learning with Set-Valued Feedback](https://arxiv.org/abs/2306.06247)   
    with Vinod Raman, Ambuj Tewari         
