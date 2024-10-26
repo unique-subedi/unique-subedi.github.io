@@ -44,7 +44,7 @@ Publications
 
 
  - [Multiclass Transductive Online Learning]()   
-   with Steve Hanneke, Amirreza Shaeiri, Vinod Raman  
+   with Steve Hanneke, Amirreza Shaeiri, Vinod Raman    
    <font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
 
  - [Smoothed Online Classification can be Harder than Batch Classification](https://arxiv.org/pdf/2405.15424)   
