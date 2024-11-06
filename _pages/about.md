@@ -47,8 +47,8 @@ Publications
     *Journal of Machine Learning Research (JMLR)*, 2024   
 
 
- - [Multiclass Transductive Online Learning]()   
-   with Steve Hanneke, Amirreza Shaeiri, Vinod Raman    
+ - [Multiclass Transductive Online Learning](https://arxiv.org/abs/2411.01634)   
+   with Steve Hanneke, Amirreza Shaeiri, Vinod Raman      
    <font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2024  
 
  - [Smoothed Online Classification can be Harder than Batch Classification](https://arxiv.org/pdf/2405.15424)   
@@ -72,7 +72,7 @@ Publications
   *Conference on Algorithmic Learning Theory (ALT)*, 2024
 
 - [On the Learnability of Multilabel Ranking](https://arxiv.org/abs/2304.03337)   
-  with Vinod Raman, Ambuj Tewari    
+  with Vinod Raman, Ambuj Tewari      
   *<font color='blue'> Spotlight at </font> Conference on Neural Information Processing Systems (NeurIPS)*, 2023  
 
 - [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
