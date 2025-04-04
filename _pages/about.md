@@ -14,7 +14,7 @@ I am a fourth-year Ph.D. student in the statistics department at the University 
 Research Interest
 ======
 
-I am broadly interested in the theory of machine learning. My topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, operator learning, and partial-feedback models, dynamical systems. In the past, I have also worked on probabilistic number theory. 
+I am broadly interested in the theory of machine learning. Some topics of interest include learning theory, online learning, adversarial robustness, vector-valued prediction, and partial-feedback models, dynamical systems. Recently, I’ve been interested in [AI for Science](https://ai4sciencecommunity.github.io/), particularly operator learning, which aims to develop fast surrogate models for PDEs or allow black-box simulation of system behavior directly from data, even without known governing equations.
 
 Preprints
 ======
@@ -27,20 +27,21 @@ Preprints
   Preprint, 2024
 
 
-- [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)    
-  with Vinod Raman, Ambuj Tewari  
-  Preprint, 2024
 
-
-- [A Combinatorial Characterization of Supervised Online Learnability](https://arxiv.org/abs/2307.03816)   
-  with Vinod Raman, Ambuj Tewari   
-  Preprint, 2023
 
 
 
 Publications 
 ======
 
+  - [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)    
+  with Vinod Raman, Ambuj Tewari  
+  <font color='blue'> Oral </font> at *Conference on Learning for Dynamics and Control (L4DC)*, 2025  
+
+
+  - [A Unified Theory of Supervised Online Learnability](https://proceedings.mlr.press/v272/raman25a.html)   
+  with Vinod Raman, Ambuj Tewari   
+  <font color='blue'> Outstanding Paper Award </font> at Conference on Algorithmic Learning Theory (ALT), 2025
 
   - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
     with Vinod Raman, Ambuj Tewari    
@@ -105,6 +106,7 @@ Publications
 
 Talks
 ======
+- On the Benefits of Active Data Collection in Operator Learning (MSSISS, 2024)
 - Online Learning with Set-Valued Feedback (Signal Processing Seminar UM EECS, 2024)
 - Online Infinite-Dimensional Regression: Learning Linear Operators (MSSISS, 2024)
 - Online Infinite-Dimensional Regression: Learning Linear Operators (ALT 2024)
