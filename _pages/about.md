@@ -35,11 +35,11 @@ Publications
 ======
   - [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)   
     with Vinod Raman, Ambuj Tewari    
-    <font color='blue'> Spotlight at </font>*Conference on Learning for Dynamics and Control (L4DC)*, 2025 
+    *Conference on Learning for Dynamics and Control (L4DC)*, 2025 (<font color='blue'>Oral</font>) 
 
   - [A Unified Theory of Supervised Online Learnability](https://proceedings.mlr.press/v272/raman25a.html)   
      with Vinod Raman, Ambuj Tewari    
-    <font color='blue'> Outstanding Paper Award at </font> *Conference on Algorithmic Learning Theory (ALT)*, 2025 
+     *Conference on Algorithmic Learning Theory (ALT)*, 2025 (<font color='blue'>Outstanding Paper Award</font>)
 
      
   - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
@@ -49,7 +49,7 @@ Publications
 
   - [Multiclass Transductive Online Learning](https://arxiv.org/abs/2411.01634)   
      with Steve Hanneke, Amirreza Shaeiri, Vinod Raman    
-    <font color='blue'> Spotlight at </font> *Conference on Neural Information Processing Systems (NeurIPS)*, 2024
+     *Conference on Neural Information Processing Systems (NeurIPS)*, 2024 (<font color='blue'>Spotlight</font>)
     
 
  - [Smoothed Online Classification can be Harder than Batch Classification](https://arxiv.org/pdf/2405.15424)   
