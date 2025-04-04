@@ -22,7 +22,7 @@ Preprints
   with Ambuj Tewari  
   Preprint, 2024
   
-- [Error Bounds for Learning Fourier Linear Operators](https://arxiv.org/pdf/2408.09004)    
+- [Controlling Statistical, Discretization, and Truncation Errors in Learning Fourier Linear Operators](https://arxiv.org/pdf/2408.09004)    
   with Ambuj Tewari  
   Preprint, 2024
 
