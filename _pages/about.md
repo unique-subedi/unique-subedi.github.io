@@ -18,6 +18,12 @@ I am broadly interested in the theory of machine learning. Some topics of intere
 
 Preprints
 ======
+
+- [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)    
+  with Ambuj Tewari  
+  Preprint, 2024
+
+
 - [On the Benefits of Active Data Collection in Operator Learning](https://arxiv.org/abs/2410.19725)    
   with Ambuj Tewari  
   Preprint, 2024
