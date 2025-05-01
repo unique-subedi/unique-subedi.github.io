@@ -21,12 +21,8 @@ Preprints
 
 - [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)    
   with Ambuj Tewari  
-  Preprint, 2024
+  Preprint, 2025
 
-
-- [On the Benefits of Active Data Collection in Operator Learning](https://arxiv.org/abs/2410.19725)    
-  with Ambuj Tewari  
-  Preprint, 2024
   
 - [Controlling Statistical, Discretization, and Truncation Errors in Learning Fourier Linear Operators](https://arxiv.org/pdf/2408.09004)    
   with Ambuj Tewari  
@@ -39,6 +35,11 @@ Preprints
 
 Publications 
 ======
+
+  - [On the Benefits of Active Data Collection in Operator Learning](https://arxiv.org/abs/2410.19725)    
+    with Ambuj Tewari  
+    *International Conference on Machine Learning (ICML)*, 2025 (<font color='red'>Spotlight</font>)
+    
   - [The Complexity of Sequential Prediction in Dynamical Systems](https://arxiv.org/abs/2402.06614)   
     with Vinod Raman, Ambuj Tewari    
     *Conference on Learning for Dynamics and Control (L4DC)*, 2025 (<font color='red'>Oral</font>) 
