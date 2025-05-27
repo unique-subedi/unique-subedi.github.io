@@ -18,6 +18,14 @@ I am broadly interested in the theory of machine learning. Some topics of intere
 
 Preprints
 ======
+- [Operator Learning for Schrödinger Equation: Unitarity, Error Bounds, and Time Generalization](https://arxiv.org/pdf/2505.18288v1)    
+  with Yash Patel and  Ambuj Tewari  
+  Preprint, 2025
+
+- [Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation](https://arxiv.org/pdf/2505.17288)    
+  with Seamus Somerstep, Vinod Raman, and Yuekai Sun  
+  Preprint, 2025
+
 
 - [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)    
   with Ambuj Tewari  
