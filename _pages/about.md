@@ -10,6 +10,8 @@ redirect_from:
 
 I am a fourth-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
 
+During the summer of 2025, I was an AI Research Intern at [Block](https://en.wikipedia.org/wiki/Block,_Inc.), where I worked on training foundation models with payment data.
+
 
 Research Interest
 ======
@@ -27,22 +29,17 @@ Preprints
   Preprint, 2025
 
 
-- [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)    
-  with Ambuj Tewari  
-  Preprint, 2025
-
-  
-- [Controlling Statistical, Discretization, and Truncation Errors in Learning Fourier Linear Operators](https://arxiv.org/pdf/2408.09004)    
-  with Ambuj Tewari  
-  Preprint, 2024
-
-
-
-
-
 
 Publications 
 ======
+
+  - [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)    
+  with Ambuj Tewari  
+  * Annual Review of Statistics and Its Application*, (to appear) 2025  (<font color='red'>Invited article</font>)
+
+  - [Controlling Statistical, Discretization, and Truncation Errors in Learning Fourier Linear Operators](https://openreview.net/pdf?id=A2sHNGcjLO)    
+  with Ambuj Tewari  
+  *Transactions on Machine Learning Research*, 2024
 
   - [On the Benefits of Active Data Collection in Operator Learning](https://arxiv.org/abs/2410.19725)    
     with Ambuj Tewari  
