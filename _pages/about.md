@@ -35,7 +35,7 @@ Publications
 
   - [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)    
   with Ambuj Tewari  
-  * Annual Review of Statistics and Its Application*, (to appear) 2025  (<font color='red'>Invited article</font>)
+  *Annual Review of Statistics and Its Application*, (to appear) 2025  (<font color='red'>Invited article</font>)
 
   - [Controlling Statistical, Discretization, and Truncation Errors in Learning Fourier Linear Operators](https://openreview.net/pdf?id=A2sHNGcjLO)    
   with Ambuj Tewari  
