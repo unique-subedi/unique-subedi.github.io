@@ -1,9 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AISTATS":
+  color: "#c94f4f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ALT":
+  color: "#26547c"
 
-"Vision":
-  color: "#009f36"
+"ARSA":
+  color: "#3a86ff"
+
+"COLT":
+  color: "#2a9d8f"
+
+"ICML":
+  color: "#6a4c93"
+
+"JMLR":
+  color: "#1d3557"
+
+"JNT":
+  color: "#457b9d"
+
+"L4DC":
+  color: "#f4a261"
+
+"MPCPS":
+  color: "#6d597a"
+
+"NeurIPS":
+  color: "#e76f51"
+
+"RNT":
+  color: "#8d99ae"
+
+"TMLR":
+  color: "#588157"

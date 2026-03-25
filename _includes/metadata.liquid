@@ -26,17 +26,7 @@
   {% else %}
     {% capture title %}{{ site.title }}{% endcapture %}
   {% endif %}
-  {% if page.url == '/blog/index.html' %}
-    {{ page.title }} | {{ title }}
-  {% elsif page.title != 'blank' and page.url != '/' %}
-    {% if page.title == null or page.title == '' %}
-      {{ page.date | date: '%Y' }} | {{ title }}
-    {% else %}
-      {{ page.title }} | {{ title }}
-    {% endif %}
-  {% else %}
-    {{ title }}
-  {% endif %}
+  {{ title }}
 </title>
 <meta name="author" content="{{ author_name }}">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
