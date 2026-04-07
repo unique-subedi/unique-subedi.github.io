@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "unique-subedi/new_webpage",
+    "data-repo": "unique-subedi/unique-subedi.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
