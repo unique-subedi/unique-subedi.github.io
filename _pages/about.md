@@ -10,6 +10,10 @@ profile:
   align: right
   image: profile-vancouver.jpeg
   image_circular: false
+  more_info: >
+    <a href="/assets/pdf/cv_unique.pdf" target="_blank" rel="noopener noreferrer" aria-label="Open CV PDF" class="cv-link">
+      <span class="cv-badge" aria-hidden="true">CV</span>
+    </a>
 
 selected_papers: false
 social: true
@@ -24,8 +28,6 @@ latest_posts:
 ---
 
 I am a fifth-year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Rizwanur Khan](https://profiles.utdallas.edu/rizwanur.khan) and [Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory.
-
-You can find my [CV](/assets/pdf/cv_unique.pdf) here.
 
 ## Research interests
 

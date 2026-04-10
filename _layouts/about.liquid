@@ -16,10 +16,38 @@ layout: default
     flex-wrap: nowrap;
   }
 
-  .post .profile .social .contact-icons a img {
-    width: 1.6rem;
-    height: 1.6rem;
-    margin-bottom: 0;
+  .post .profile .social .contact-icons .cv-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none;
+  }
+
+  .post .profile .social .contact-icons .cv-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.8rem;
+    height: 1.8rem;
+    border: 0.15rem solid var(--global-text-color);
+    border-radius: 0.25rem;
+    background: var(--global-text-color);
+    color: var(--global-bg-color);
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    font-family: var(--global-font-family);
+    box-sizing: border-box;
+    transition:
+      color 0.2s ease-in-out,
+      border-color 0.2s ease-in-out,
+      background-color 0.2s ease-in-out;
+  }
+
+  .post .profile .social .contact-icons .cv-link:hover .cv-badge {
+    background: var(--global-theme-color);
+    border-color: var(--global-theme-color);
   }
 
   .post .profile .social .contact-icons a svg {
@@ -64,14 +92,16 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
         {% if page.social %}
           <div class="social">
-            <div class="contact-icons">{% social_links %}</div>
+            <div class="contact-icons">
+              {{ page.profile.more_info }}
+              {% social_links %}
+            </div>
             <div class="contact-note">{{ site.contact_note }}</div>
           </div>
+        {% elsif page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
     {% endif %}
