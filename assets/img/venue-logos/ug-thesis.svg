@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-labelledby="title desc">
+  <title id="title">Undergraduate Thesis logo</title>
+  <desc id="desc">A custom badge for undergraduate thesis entries.</desc>
+  <rect width="420" height="220" rx="28" fill="#ffffff"/>
+  <rect x="28" y="28" width="364" height="164" rx="26" fill="#7b1113"/>
+  <rect x="52" y="56" width="68" height="94" rx="10" fill="#ffffff" opacity="0.96"/>
+  <rect x="60" y="66" width="52" height="74" rx="6" fill="#f4efe7"/>
+  <rect x="68" y="82" width="36" height="4" rx="2" fill="#b68a35"/>
+  <rect x="68" y="94" width="36" height="4" rx="2" fill="#b68a35"/>
+  <rect x="68" y="106" width="28" height="4" rx="2" fill="#b68a35"/>
+  <text x="148" y="98" fill="#f4c542" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1">UG</text>
+  <text x="148" y="136" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="0.8">THESIS</text>
+</svg>
