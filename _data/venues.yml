@@ -1,35 +1,71 @@
 "AISTATS":
   color: "#c94f4f"
+  logo: "venue-logos/aistats.png"
+  logo_class: "venue-logo--wide"
 
 "ALT":
   color: "#26547c"
+  logo: "venue-logos/alt25.png"
+  logo_class: "venue-logo--wide"
+  logos_by_year:
+    "2024": "venue-logos/alt24.png"
+    "2025": "venue-logos/alt25.png"
 
 "ARSA":
   color: "#3a86ff"
+  logo: "venue-logos/arsa.svg"
+  logo_class: "venue-logo--wide"
 
 "COLT":
   color: "#2a9d8f"
+  logo: "venue-logos/colt.png"
 
 "ICML":
   color: "#6a4c93"
+  logo: "venue-logos/icml.svg"
 
 "JMLR":
   color: "#1d3557"
+  logo: "venue-logos/jmlr.jpeg"
+  logo_class: "venue-logo--wide"
 
 "JNT":
   color: "#457b9d"
+  logo: "venue-logos/jnt.png"
 
 "L4DC":
   color: "#f4a261"
+  logo: "venue-logos/l4dc.svg"
 
 "MPCPS":
   color: "#6d597a"
+  logo: "venue-logos/mpcps.jpg"
 
 "NeurIPS":
   color: "#e76f51"
+  logo: "venue-logos/neurips.svg"
+  logo_class: "venue-logo--wide venue-logo--neurips"
 
 "RNT":
   color: "#8d99ae"
+  logo: "venue-logos/rnt.svg"
+  logo_class: "venue-logo--wide venue-logo--rnt"
 
 "TMLR":
   color: "#588157"
+  logo: "venue-logos/tmlr.png"
+
+"UGTH":
+  color: "#7b1113"
+  logo: "venue-logos/umiss.svg"
+  logo_class: "venue-logo--wide"
+
+"PHDTH":
+  color: "#00274c"
+  logo: "venue-logos/umich.svg"
+  logo_class: "venue-logo--wide"
+
+"ARXIV":
+  color: "#b31b1b"
+  logo: "venue-logos/arxiv.jpg"
+  logo_class: "venue-logo--wide"

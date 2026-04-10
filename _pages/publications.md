@@ -35,5 +35,6 @@ nav_order: 2
 
 ## Miscellaneous
 
-- [An Elementary Evaluation of $\zeta(2n)$ Using Dirichlet's Kernel](/assets/pdf/Dirichlet_s_Kernel_and_Zeta_2n_.pdf), with Micah B. Milinovich.
-- [On $L_1$-norm of Dirichlet's Kernel](/assets/pdf/L1_Norm_of_Dirichlet_s_Kernel.pdf), with Micah B. Milinovich.
+<div class="publications">
+{% bibliography --group_by none --file misc %}
+</div>

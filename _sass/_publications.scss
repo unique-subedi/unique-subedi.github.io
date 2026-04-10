@@ -46,6 +46,54 @@
       .abbr {
         margin-bottom: 0.5rem;
 
+        .venue-logo-wrapper {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          min-height: 5.5rem;
+          margin-bottom: 0.75rem;
+          padding: 0.2rem;
+          border-radius: 0.75rem;
+          background-color: var(--global-card-bg-color);
+          box-shadow: 0 0.35rem 0.8rem rgba(0, 0, 0, 0.08);
+        }
+
+        .venue-logo-link {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+
+        .venue-logo {
+          display: block;
+          max-width: 96%;
+          max-height: 4.9rem;
+          width: auto;
+          height: auto;
+          object-fit: contain;
+        }
+
+        .venue-logo--wide {
+          max-width: 100%;
+          max-height: 5.4rem;
+        }
+
+        .venue-logo--neurips {
+          transform: scale(1.8);
+          transform-origin: center;
+        }
+
+        .venue-logo--rnt {
+          transform: scale(1.12);
+          transform-origin: center;
+        }
+
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);

@@ -5,22 +5,47 @@
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
+          {% assign venue = site.data.venues[entry.abbr] %}
+          {% assign venue_logo = venue.logo %}
+          {% if venue.logos_by_year and venue.logos_by_year[entry.year] %}
+            {% assign venue_logo = venue.logos_by_year[entry.year] %}
+          {% endif %}
           {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+          {% if venue.color != blank %}
+            {% assign venue_style = venue.color | prepend: 'style="background-color:' | append: '"' %}
           {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
-            {% else %}
-              <div>{{- entry.abbr -}}</div>
-            {% endif %}
-          </abbr>
+          {% if venue_logo %}
+            <div class="venue-logo-wrapper">
+              {% if venue.url %}
+                <a href="{{ venue.url }}" class="venue-logo-link" aria-label="{{ entry.abbr }} venue logo">
+                  <img
+                    src="{{ venue_logo | prepend: '/assets/img/' | relative_url }}"
+                    alt="{{ entry.abbr }} logo"
+                    class="venue-logo{% if venue.logo_class %} {{ venue.logo_class }}{% endif %}"
+                  >
+                </a>
+              {% else %}
+                <img
+                  src="{{ venue_logo | prepend: '/assets/img/' | relative_url }}"
+                  alt="{{ entry.abbr }} logo"
+                  class="venue-logo{% if venue.logo_class %} {{ venue.logo_class }}{% endif %}"
+                >
+              {% endif %}
+            </div>
+          {% else %}
+            <abbr
+              class="badge rounded w-100"
+              {% if venue_style %}
+                {{ venue_style }}
+              {% endif -%}
+            >
+              {% if venue.url %}
+                <a href="{{ venue.url }}">{{ entry.abbr }}</a>
+              {% else %}
+                <div>{{- entry.abbr -}}</div>
+              {% endif %}
+            </abbr>
+          {% endif %}
         {% else %}
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
