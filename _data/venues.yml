@@ -13,7 +13,7 @@
 
 "ARSA":
   color: "#3a86ff"
-  logo: "venue-logos/arsa.svg"
+  logo: "venue-logos/arsa.png"
   logo_class: "venue-logo--wide"
 
 "COLT":
@@ -39,11 +39,11 @@
 
 "MPCPS":
   color: "#6d597a"
-  logo: "venue-logos/mpcps.jpg"
+  logo: "venue-logos/mpcps.png"
 
 "NeurIPS":
   color: "#e76f51"
-  logo: "venue-logos/neurips.svg"
+  logo: "venue-logos/neurips.png"
   logo_class: "venue-logo--wide venue-logo--neurips"
 
 "RNT":
