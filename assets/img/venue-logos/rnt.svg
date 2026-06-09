@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+  <title id="title">Research in Number Theory logo</title>
+  <desc id="desc">A custom wordmark for Research in Number Theory.</desc>
+  <rect width="520" height="190" rx="24" fill="#ffffff"/>
+  <rect x="26" y="22" width="468" height="16" rx="8" fill="#e3bf3e"/>
+  <rect x="26" y="38" width="468" height="114" fill="#0f5f8f"/>
+  <rect x="26" y="152" width="468" height="16" rx="8" fill="#e3bf3e"/>
+  <text x="260" y="78" text-anchor="middle" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="0.05">Research in</text>
+  <text x="260" y="111" text-anchor="middle" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="0.06">Number</text>
+  <text x="260" y="141" text-anchor="middle" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="0.06">Theory</text>
+</svg>
