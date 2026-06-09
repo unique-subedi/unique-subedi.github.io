@@ -4,7 +4,7 @@ title: about
 permalink: /
 nav: true
 nav_order: 1
-subtitle: Incoming Member of Research Staff at Fireworks AI
+subtitle: Member of Research Staff at Fireworks AI
 
 profile:
   align: right
@@ -242,7 +242,7 @@ latest_posts:
 </style>
 
 <div class="about-intro">
-  <p>I am an incoming Member of Research Staff at <a href="https://fireworks.ai/">Fireworks AI</a>. I recently completed my Ph.D. in Statistics at the University of Michigan, where I was advised by <a href="https://ambujtewari.github.io/">Ambuj Tewari</a>.</p>
+  <p>I am a Member of Research Staff at <a href="https://fireworks.ai/">Fireworks AI</a>. I recently completed my Ph.D. in Statistics at the University of Michigan, where I was advised by <a href="https://ambujtewari.github.io/">Ambuj Tewari</a>.</p>
 </div>
 
 <div class="about-break"></div>
@@ -257,10 +257,10 @@ latest_posts:
     <div>
       <div class="about-header">
         <div class="about-role">Fireworks AI</div>
-        <div class="about-date">May 2026 -</div>
+        <div class="about-date">Jun 2026 -</div>
       </div>
-      <div class="about-subtitle">Incoming Member of Research Staff</div>
-      <p>I am an incoming Member of Research Staff at Fireworks AI.</p>
+      <div class="about-subtitle">Member of Research Staff</div>
+      <p>I am a Member of Research Staff at Fireworks AI.</p>
     </div>
   </div>
 
@@ -276,7 +276,7 @@ latest_posts:
         <div class="about-date">Aug 2021 - Apr 2026</div>
       </div>
       <div class="about-subtitle">Ph.D. in Statistics · <a href="/assets/pdf/unique_subedi_thesis_2026.pdf">Thesis</a></div>
-      <p>I was advised by <a href="https://ambujtewari.github.io/">Ambuj Tewari</a>. My work centered on the mathematical foundations of machine learning, with a focus on <a href="https://doi.org/10.1146/annurev-statistics-042424-070908">operator learning</a> and related questions in <a href="https://ai4sciencecommunity.github.io/">AI for Science</a>. I was supported by the <a href="https://rackham.umich.edu/funding/rackham-international-student-fellowships/">Rackham International Student Fellowship</a> and the <a href="https://rackham.umich.edu/funding/rackham-predoctoral-fellowship-program/">Rackham Predoctoral Fellowship</a>.</p>
+      <p>I was advised by <a href="https://ambujtewari.github.io/">Ambuj Tewari</a>. My work centered on the mathematical foundations of machine learning, with a focus on <a href="https://doi.org/10.1146/annurev-statistics-042424-070908">operator learning</a> and related questions in <a href="https://ai4sciencecommunity.github.io/">AI for Science</a>. My thesis was awarded the Outstanding Dissertation Award from the Department of Statistics. I was supported by the <a href="https://rackham.umich.edu/funding/rackham-international-student-fellowships/">Rackham International Student Fellowship</a> and the <a href="https://rackham.umich.edu/funding/rackham-predoctoral-fellowship-program/">Rackham Predoctoral Fellowship</a>.</p>
       <div class="about-subtimeline">
         <div class="about-subentry">
           <div class="about-submarker">
