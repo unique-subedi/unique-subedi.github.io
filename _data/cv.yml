@@ -1,10 +1,7 @@
 cv:
   name: Unique Subedi
-  label: Ph.D. Student in Statistics
   email: subedi@umich.edu
   location: Ann Arbor, Michigan
-  image: ""
-  summary: Ph.D. student in the Statistics Department at the University of Michigan interested in machine learning, AI for scientific applications, and robust AI.
 
   social_networks:
     - network: GitHub
@@ -16,25 +13,25 @@ cv:
         location: Ann Arbor, Michigan
         area: Statistics
         studyType: PhD
-        start_date: 2021
-        end_date: 2026
+        start_date: "2021"
+        end_date: "2026"
         highlights:
           - Advised by Ambuj Tewari.
-          - Interests: Machine learning, AI for scientific applications, and robust AI.
+          - "Interests: Machine learning, AI for scientific applications, and robust AI."
 
       - institution: University of Michigan
         location: Ann Arbor, Michigan
         area: Statistics
         studyType: MA
-        start_date: 2021
-        end_date: 2025
+        start_date: "2021"
+        end_date: "2025"
 
       - institution: University of Mississippi
         location: Oxford, Mississippi
         area: Mathematics and Computer Science
         studyType: BS
         highlights:
-          - Thesis: A Weighted Version of Erdős-Kac Theorem.
+          - "Thesis: A Weighted Version of Erdős-Kac Theorem."
 
     Experience:
       - company: Fireworks AI
@@ -64,63 +61,63 @@ cv:
       - title: Rackham Predoctoral Fellowship
         authors:
           - University of Michigan
-        date: 2025
+        date: "2025"
         awarder: University of Michigan
 
       - title: MSSISS Best Oral Presentation
         authors:
           - MSSISS
-        date: 2024
+        date: "2024"
         awarder: MSSISS
 
       - title: Rackham International Student Fellowship
         authors:
           - University of Michigan
-        date: 2023
+        date: "2023"
         awarder: University of Michigan
 
       - title: Outstanding Statistics GSI Team (Honorable Mention)
         authors:
           - University of Michigan
-        date: 2023
+        date: "2023"
         awarder: University of Michigan
 
       - title: Rackham Fellowship
         authors:
           - University of Michigan
-        date: 2021
+        date: "2021"
         awarder: University of Michigan
 
       - title: Taylor Memorial Medal
         authors:
           - University of Mississippi
-        date: 2021
+        date: "2021"
         awarder: University of Mississippi
         summary: Highest academic honor at the University of Mississippi.
 
       - title: Hume Award for Outstanding Senior in Mathematics
         authors:
           - University of Mississippi
-        date: 2021
+        date: "2021"
         awarder: University of Mississippi
 
       - title: Ventress Scholar
         authors:
           - University of Mississippi
-        date: 2021
+        date: "2021"
         awarder: University of Mississippi
         summary: Awarded for perfect GPA.
 
       - title: Quarles Scholarship for Outstanding Sophomore in Mathematics
         authors:
           - University of Mississippi
-        date: 2019
+        date: "2019"
         awarder: University of Mississippi
 
       - title: Academic Merit Scholarship
         authors:
           - University of Mississippi
-        date: 2017
+        date: "2017"
         awarder: University of Mississippi
         summary: Full tuition award.
 
@@ -138,7 +135,7 @@ cv:
           - Unique Subedi
           - Ambuj Tewari
         publisher: Annual Review of Statistics and Its Applications
-        releaseDate: 2026
+        releaseDate: "2026"
         url: https://arxiv.org/pdf/2504.03503
         summary: Invited article.
 
@@ -149,7 +146,7 @@ cv:
           - Unique Subedi
           - Yuekai Sun
         publisher: Conference on Artificial Intelligence and Statistics
-        releaseDate: 2026
+        releaseDate: "2026"
         url: https://arxiv.org/pdf/2505.17288
 
       - title: "On the Benefits of Active Data Collection in Operator Learning"
@@ -157,7 +154,7 @@ cv:
           - Unique Subedi
           - Ambuj Tewari
         publisher: International Conference on Machine Learning
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://arxiv.org/abs/2410.19725
         summary: Spotlight.
 
@@ -167,7 +164,7 @@ cv:
           - Unique Subedi
           - Ambuj Tewari
         publisher: Learning for Dynamics and Control
-        releaseDate: 2025
+        releaseDate: "2025"
         summary: Oral. Equal contribution with Vinod Raman.
         url: https://arxiv.org/abs/2402.06614
 
@@ -177,7 +174,7 @@ cv:
           - Unique Subedi
           - Ambuj Tewari
         publisher: Conference on Algorithmic Learning Theory
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://proceedings.mlr.press/v272/raman25a.html
         summary: Outstanding Paper Award. Equal contribution with Vinod Raman.
 
