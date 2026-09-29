@@ -85,6 +85,6 @@ $$
 \operatorname{D}_{k+1} \leq \alpha \operatorname{D}_k, \qquad 0 < \alpha < 1.
 $$
 
-Then $\operatorname{D}_k \leq \alpha^k \operatorname{D}_0$ , so only $O(\log T)$ rounds are needed. Under this assumption, each repair builds on previous progress, turning a potentially exponential search into a logarithmic sequence of refinements.
+Then $\operatorname{D}_k \leq \alpha^k \operatorname{D}_0$ , so only $O(\log T)$ rounds are needed. Under this assumption, each repair builds on previous progress, turning a potentially exponential search into a logarithmic sequence of refinements. If I had to guess, this logarithmic regime seems closer to what we observe in practice given how efficiently these agents often converge on a working solution.
 
-Finally, verifiability tells us whether a solution is correct. However, I believe error localization and local repairability help explain how AI agents can reach one efficiently. 
+Overall, verifiability tells us whether a proposed solution is correct. Error localization and local repairability, however, may help explain how AI agents are able to reach a correct solution efficiently.
