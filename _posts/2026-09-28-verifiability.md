@@ -37,7 +37,7 @@ $$
 
 Independent sampling therefore requires at least $$e^{\varepsilon h(T)}$$ attempts on average. If $$h(T) = T^\alpha$$ for any fixed $$\alpha \in (0,1)$$, this grows faster than any polynomial in $$T$$, even though $$h(T) \ll T$$.
 
-More importantly, this sampling picture misses an important part of how AI agents make progress. They can use feedback from failed attempts to improve an existing candidate. Accordingly, in addition to verifiability, I think two properties help explain success in these domains: _error localization_ and _local repairability_.
+Thus, verifiability alone does not explain how AI agents avoid an exponential search over candidate solutions. To understand their success, we need to consider what a failed verification reveals and how an agent can use that information to improve its next attempt. I propose that two additional properties help explain this: _error localization_ and _local repairability_.
 
 The localization of errors matters because a binary verifier only tells us whether a candidate is correct. More informative feedback can help us identify where it is wrong. A compiler may flag a particular error, a unit test may narrow down a failing behavior, or a proof checker may point to an invalid step. Local repairability means that, once we have located an error, we can fix it while preserving most of what is already correct. If every correction requires starting over, localization alone does not get us very far.
 
