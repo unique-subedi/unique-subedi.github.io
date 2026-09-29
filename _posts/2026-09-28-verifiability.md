@@ -9,7 +9,7 @@ categories: essays
 related_posts: false
 ---
 
-Whenever we ask why AI is so remarkable at tasks such as writing code or solving difficult mathematical problems, one common explanation is the verifiability of these domains. Programs can be compiled and tested, and mathematical arguments can be checked step by step or formalized and verified using proof assistants. Thus, a sufficiently large number of AI agents can keep proposing solutions, verifying them, and eventually arrive at a correct answer.
+AI agents have made remarkable progress in coding and mathematics. A common explanation for their success is that solutions in these domains can be verified. Programs can be compiled and tested, and mathematical arguments can be checked step by step or formalized and verified using proof assistants. Thus, a sufficiently large number of AI agents can keep proposing solutions, verifying them, and eventually arrive at a correct answer.
 
 However, I do not think verifiability alone explains why this process is feasible. To see this, note that for any problem whose solutions admit a finite encoding, finding a solution can be represented as identifying a member of a nonempty set
 
