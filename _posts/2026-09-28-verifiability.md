@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Verifiability Alone Doesn’t Explain AI Agents’ Success
+title: Verifiability Alone Doesn’t Explain AI Agents’ Success
 date: 2026-09-28
 author: Unique Subedi
 description: Why checking an answer is only part of the story of AI progress in code and mathematics.
